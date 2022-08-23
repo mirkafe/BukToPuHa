@@ -1,8 +1,8 @@
 <?php
 // Run this file using screen to start bote, be sure that PHP can write in directory, where this file is located. Also you need to create directory "logs".
 define('debug',0); // Debug mode, debug info posted to console
-define('administrator_id',30406413); // Change administrator_id to your Telegram ID
-define('bote_id','123:ABC'); // Change this to your bot ID, get bot ID from BotFather (https://core.telegram.org/bots)
+define('administrator_id',1867257982); // Change administrator_id to your Telegram ID
+define('bote_id','5699094708:AAEVM2Z24Xz4Dl5GiTOKwpnl254MjnFthlk'); // Change this to your bot ID, get bot ID from BotFather (https://core.telegram.org/bots)
 global $bot;
 global $players;
 global $allplayers;
